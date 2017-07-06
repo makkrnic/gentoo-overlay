@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>mak-gentoo-overlay</name>
+    <description>Software I use</description>
+    <homepage>https://github.com/makkrnic/gentoo-overlay.git</homepage>
+    <owner>
+      <email>mkrnic@gmail.com</email>
+      <name>Mak Krnic</name>
+    </owner>
+    <source type="git">https://github.com/makkrnic/gentoo-overlay.git</source>
+  </repo>
+</repositories>
