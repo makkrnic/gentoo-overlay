@@ -20,7 +20,7 @@ REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 RDEPEND="
 	ssl? ( dev-libs/openssl:0= )
 	${PYTHON_DEPS}
-	~dev-python/ovs-2.7.2[${PYTHON_USEDEP}]
+	~dev-python/ovs-2.8.1[${PYTHON_USEDEP}]
 	|| (
 		dev-python/twisted[conch,${PYTHON_USEDEP}]
 		dev-python/twisted-web[${PYTHON_USEDEP}]
